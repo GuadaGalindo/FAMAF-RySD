@@ -1,0 +1,5 @@
+Cuando una URL que se ingresa a la barra de direcciones de un navegador contiene caracteres especiales el navegador debe traducir internamente los mismos a una codificación diferente antes de la transmisión.
+
+Se deben traducir los caracteres especiales porque todas las URLs deben cumplir con algunos requisitos de sintaxis que se indican. En efecto, esto significa que las URLs deben contener solo un subconjunto especial de caracteres ASCII: los símbolos alfanuméricos y algunos caracteres reservados para usar como caracteres de control en las URLs.
+
+La codificación de caracteres en URLs se realiza mediante un proceso llamado URL encoding (o percent-encoding). Este proceso convierte caracteres no permitidos o reservados en una secuencia de caracteres seguros que pueden ser transmitidos a través de la web.

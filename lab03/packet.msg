@@ -1,0 +1,4 @@
+packet fPacket
+{
+    int remainingBuffer;
+};
