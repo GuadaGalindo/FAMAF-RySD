@@ -1,6 +1,6 @@
 # FAMAF - RySD
 
-Laboratorio resuelto (PARTE 1) de la materia **"Redes y Sistemas Distribuidos"** de 3er año (1er cuatrimestre) FAMAF - UNC
+Laboratorios resueltos de la materia **"Redes y Sistemas Distribuidos"** de 3er año (1er cuatrimestre) FAMAF - UNC
 
 ### Tecnologías utilizadas
 
