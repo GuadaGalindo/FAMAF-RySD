@@ -4,7 +4,8 @@ Laboratorios resueltos de la materia **"Redes y Sistemas Distribuidos"** de 3er 
 
 ### Tecnologías utilizadas
 
-- Python
+- Python (Laboratorios 0, 1 y 2)
+- C++ (Laboratorios 3 y 4)
 
 ### Autora
 
